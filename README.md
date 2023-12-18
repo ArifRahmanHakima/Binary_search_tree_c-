@@ -1,1 +1,1 @@
-# Binary_search_tree_c-
+program c++ kali ini, merupakan implementasi dari AVL atau lebih di kenal dengan binary search tree, yang di mana program c++ ini saya menggunakan berbagai macam implementasi nya di anatar nya memasukan data/ insert, cari maks,min, dan menampilkan preorder, inorder, postorder pada program ini.
